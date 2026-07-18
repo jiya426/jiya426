@@ -1,145 +1,143 @@
 <!-- ========================================================= -->
-<!--                    ANIMATED HEADER                         -->
+<!--                  ANIMATED HEADER                          -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:3B82F6,100:7C3AED&text=Jiya%20Jain&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Data%20Analyst%20|%20Data%20Scientist%20|%20AI%2FML%20Engineer%20|%20Gen%20AI%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:3B82F6,100:9333EA&text=Jiya%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Generative%20AI&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Data+Analyst;Data+Scientist;AI%2FML+Engineer;Gen+AI+Engineer;Building+AI+Solutions"/>
-
-<br>
-
-![](https://img.shields.io/badge/🎓_Bachelor_of_Engineering-CSE-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/🏫_Tontadarya_College_of_Engineering-Gadag-3B82F6?style=for-the-badge)
-![](https://img.shields.io/badge/🎓_VTU-University-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/📍_Karnataka-India-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.9-success?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Data+Analyst;Data+Scientist;AI+Engineer;Generative+AI+Enthusiast;Python+Developer;Building+AI-Powered+Solutions"/>
 
 <br>
 
-<a href="https://linkedin.com/in/jiya426">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=jiya426&style=for-the-badge&color=7C3AED"/>
 
-<a href="mailto:fazalshaikh708@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/github/followers/jiya426?style=for-the-badge&logo=github&color=3B82F6"/>
+
+<img src="https://img.shields.io/github/stars/jiya426?style=for-the-badge&logo=github&color=6C63FF"/>
+
+<br><br>
 
 <a href="https://github.com/jiya426">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/jiya-jain9876/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![](https://komarev.com/ghpvc/?username=fazal-shaikh&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/fazal-shaikh?style=for-the-badge&logo=github&color=3B82F6)
-
-![](https://img.shields.io/github/stars/fazal-shaikh?style=for-the-badge&logo=github&color=6C63FF)
+<a href="mailto:jiyajain4409@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hello, I'm Jiya Jain!
 
-Hi there! 👋
+I'm a **Computer Science Engineering Graduate** passionate about **Data Analytics**, **Machine Learning**, **Artificial Intelligence**, and **Generative AI**.
 
-I'm **Jiya Jain**, a **Computer Science Engineering** student passionate about building intelligent applications powered by **Artificial Intelligence**, **Generative AI**, **Machine Learning**, **Data Science**, and **Data Analytics**.
-
-I enjoy transforming real-world problems into AI-driven solutions using modern technologies, data-driven approaches, and scalable architectures.
-
-I'm currently seeking opportunities as a:
-
-- 📊 Data Analyst
-- 🤖 Data Scientist
-- 🧠 AI/ML Engineer
-- 🚀 Gen AI Engineer
+I enjoy building intelligent applications that transform raw data into meaningful insights and AI-powered solutions.
 
 ---
 
-# 🎓 Personal Information
+## 🚀 About Me
 
-| Information | Details |
-|------------|---------|
-| 👤 Name | **Jiya Jain** |
-| 🎓 Degree | Bachelor of Engineering |
-| 💻 Branch | Computer Science & Engineering |
-| 🏫 College | Tontadarya College of Engineering, Gadag |
-| 🎓 University | Visvesvaraya Technological University (VTU) |
-| 📈 CGPA | **8.6** |
-| 📍 Location | Karnataka, India |
+- 🎓 Bachelor of Engineering (Computer Science & Engineering)
+- 📊 Aspiring Data Analyst & Data Scientist
+- 🤖 Passionate about Artificial Intelligence & Generative AI
+- 🧠 Experienced in Retrieval-Augmented Generation (RAG)
+- 💡 Love solving real-world business problems with data
+- 🌱 Currently learning Agentic AI, MCP & MLOps
+- 📍 Karnataka, India
 
 ---
 
-# 🚀 Tech Stack
+# 💼 Looking For
 
-## 💻 Programming
+✅ Data Analyst
 
-<p align="left">
+✅ Data Scientist
 
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+✅ AI / ML Engineer
+
+✅ Generative AI Engineer
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres&perline=6"/>
 
 </p>
 
 ---
 
-## 🤖 AI & Machine Learning
+## 📊 Data Analytics
 
-<p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+| Skills |
+|---------|
+| SQL |
+| Power BI |
+| Tableau |
+| Microsoft Excel |
+| Pandas |
+| NumPy |
+| Matplotlib |
+| Statistics |
+| Data Cleaning |
+| Exploratory Data Analysis |
+| Feature Engineering |
+
+---
+
+## 🤖 Machine Learning
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 
 </p>
 
-![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+- Scikit-Learn
+- TensorFlow
+- XGBoost
+- Regression
+- Classification
+- Clustering
+- Model Evaluation
+- Feature Engineering
 
 ---
 
 ## 🧠 Generative AI
 
-![](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-
-![](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/LLMs-3B82F6?style=for-the-badge)
-
-![](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge)
-
-![](https://img.shields.io/badge/Vector_Databases-9333EA?style=for-the-badge)
-
----
-
-## ⚡ AI Tools
-
-![](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge)
-
-![](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-
-![](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge)
-
-![](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge)
-
-![](https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge)
-
-![](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+- Google Gemini
+- LangChain
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Hybrid Search
+- BM25
+- ChromaDB
+- Embeddings
+- Cross Encoder Re-ranking
 
 ---
 
 ## ⚙️ Backend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 
@@ -147,131 +145,198 @@ I'm currently seeking opportunities as a:
 
 ---
 
-## 🗄 Database
+## 🗄 Databases
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
 </p>
 
 ---
 
-## 🛠 Tools
+## ☁️ Tools & Technologies
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=8"/>
 
 </p>
 
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-# 📚 AI & ML Skills
+# 📚 Technical Skills
 
-| Domain | Skills |
-|---------|--------|
+| Category | Technologies |
+|------------|------------------------------------------------|
 | Programming | Python, SQL |
-| Data Analysis | Pandas, NumPy |
-| Machine Learning | Scikit-learn, XGBoost |
-| Deep Learning | TensorFlow, CNN, Transfer Learning |
-| Data Visualization | Matplotlib, Streamlit |
-| Generative AI | LangChain, LangGraph, RAG |
-| Retrieval Systems | Hybrid Search, BM25, FAISS |
-| AI Models | Google Gemini, OpenAI, Hugging Face |
-| Prompt Engineering | Advanced Prompt Design |
-| Embeddings | Dense & Sparse Retrieval |
-| Vector Databases | ChromaDB, FAISS |
+| Databases | MySQL, PostgreSQL |
+| Data Analytics | Excel, Power BI, Tableau |
+| Data Processing | Pandas, NumPy |
+| Visualization | Matplotlib |
+| Machine Learning | Scikit-Learn, TensorFlow, XGBoost |
+| Deep Learning | CNN, Transfer Learning |
+| Generative AI | LangChain, Google Gemini |
+| Retrieval | BM25, Hybrid Search |
+| Vector Database | ChromaDB |
 | Backend | FastAPI, Flask |
-| Deployment | Docker, Streamlit |
+| Deployment | Streamlit |
 | Version Control | Git, GitHub |
 
 ---
 
-# 🌟 Featured Projects
+# 🏅 Certifications
+
+- Python Programming
+- Machine Learning
+- Data Analytics
+- Generative AI
+- Deep Learning
 
 ---
 
-<details open>
+# 🚀 Featured Projects
 
-<summary>
+## 🧠 Multi-Document RAG Research Assistant
 
-# 🧠 Multi-Document RAG Research Assistant
+> An AI-powered research assistant that answers questions from multiple PDF and DOCX documents using Retrieval-Augmented Generation (RAG).
 
-</summary>
+### 🚀 Key Features
 
-### ✨ Features
+- 📄 Upload multiple PDF & DOCX files
+- 🔍 Hybrid Search (BM25 + Dense Retrieval)
+- 🧠 Google Gemini for intelligent responses
+- 📚 ChromaDB Vector Database
+- 🎯 Cross Encoder Re-ranking
+- 💬 Citation-based Answers
+- ⚡ FastAPI Backend
+- 🎨 Interactive Streamlit UI
 
-- Hybrid Search
-- BM25 Retrieval
-- FAISS Vector Search
-- Cross Encoder Re-ranking
-- LangChain
-- Google Gemini
-- Whisper Voice Input
-- Streamlit UI
-- FastAPI Backend
+### 🛠 Tech Stack
 
-### 📋 Project Information
+`Python` • `LangChain` • `Google Gemini` • `ChromaDB` • `FastAPI` • `Streamlit` • `BM25` • `Sentence Transformers`
 
-| Category | Details |
-|----------|---------|
-| AI | ✅ |
-| RAG | ✅ |
-| LangChain | ✅ |
-| Gemini | ✅ |
-| Whisper | ✅ |
-| FAISS | ✅ |
-| Hybrid Search | ✅ |
-| Cross Encoder | ✅ |
-| Backend | FastAPI |
-| Frontend | Streamlit |
-
-</details>
+> 📌 **Highlights**
+>
+> - Built an end-to-end Retrieval-Augmented Generation (RAG) application.
+> - Reduced hallucinations using hybrid retrieval and reranking.
+> - Implemented modular architecture for scalable document processing.
 
 ---
 
-<details>
+## 🚗 Car Damage Detection using CNN
 
-<summary>
+Deep Learning model for automatic car damage classification using Convolutional Neural Networks.
 
-# 🚗 Car Damage Detection using CNN
+### Features
 
-</summary>
-
-### ✨ Features
-
-- TensorFlow
-- CNN
-- Transfer Learning
 - Image Classification
-- FastAPI
-- Streamlit
+- TensorFlow CNN
+- Transfer Learning
+- FastAPI API
+- Streamlit Web App
 
-### 📋 Project Information
+### Tech Stack
 
-| Category | Details |
-|----------|---------|
-| CNN | ✅ |
-| TensorFlow | ✅ |
-| Transfer Learning | ✅ |
-| FastAPI | ✅ |
-| Streamlit | ✅ |
-| Image Processing | ✅ |
-
-</details>
+`TensorFlow` • `Python` • `CNN` • `FastAPI` • `Streamlit`
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 Google Play Store Data Analysis
+
+Performed complete Exploratory Data Analysis (EDA) on the Google Play Store dataset to uncover business insights.
+
+### Features
+
+- Data Cleaning
+- Missing Value Handling
+- Feature Engineering
+- Exploratory Data Analysis
+- Interactive Visualizations
+
+### Tools
+
+`Python` • `Pandas` • `NumPy` • `Matplotlib`
+
+---
+
+## 📈 Sales Dashboard (Power BI)
+
+Interactive business dashboard for analyzing sales performance and KPIs.
+
+### Dashboard Includes
+
+- Sales Overview
+- Profit Analysis
+- Category-wise Performance
+- Customer Insights
+- Regional Analysis
+- KPI Cards
+- Interactive Filters
+
+### Tools
+
+`Power BI` • `Excel`
+
+---
+
+## 💾 SQL Data Analysis
+
+Collection of SQL projects demonstrating querying, reporting, and business analytics.
+
+### Topics Covered
+
+- Joins
+- CTEs
+- Window Functions
+- Aggregate Functions
+- Subqueries
+- Stored Procedures
+- Views
+
+### Database
+
+MySQL
+
+---
+
+# 🏆 GitHub Achievements
+
+- ✅ Artificial Intelligence
+- ✅ Machine Learning
+- ✅ Data Analytics
+- ✅ Deep Learning
+- ✅ Generative AI
+- ✅ Retrieval-Augmented Generation (RAG)
+- ✅ FastAPI Development
+- ✅ Streamlit Applications
+
+---
+
+# 📈 Coding Interests
+
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🚀 Generative AI
+- 🔍 Retrieval-Augmented Generation
+- 🏗 AI Automation
+- 📚 Large Language Models
+- ⚙ Backend Development
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jiya426&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jiya426&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jiya426&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jiya426&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -279,7 +344,7 @@ I'm currently seeking opportunities as a:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiya426&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiya426&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -305,55 +370,84 @@ I'm currently seeking opportunities as a:
 
 ---
 
-# 🐍 Snake Animation
+<!-- ========================================================= -->
+<!--                  CURRENT FOCUS                            -->
+<!-- ========================================================= -->
+
+# 🎯 Current Focus
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📚 Learning
+
+- Agentic AI
+- Advanced RAG
+- Model Context Protocol (MCP)
+- MLOps
+- LLM Evaluation
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Building
+
+- AI Applications
+- Data Analytics Projects
+- Machine Learning Models
+- RAG Systems
+- End-to-End AI Solutions
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔍 Exploring
+
+- Large Language Models
+- AI Agents
+- Vector Databases
+- Prompt Engineering
+- AI Automation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Open To Opportunities
+
+I'm currently looking for opportunities as:
+
+- 📊 Data Analyst
+- 📈 Business Analyst
+- 🤖 Data Scientist
+- 🧠 AI / Machine Learning Engineer
+- 🚀 Generative AI Engineer
+
+---
+
+# 📈 GitHub Metrics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jiya426/jiya426/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiya426&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiya426&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiya426&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
-
-## 📚 Learning
-
-- Agentic AI
-- AI Workflows
-- Multi-Stage AI Workflows
-- MLOps
-
----
-
-## 🚀 Building
-
-- AI Applications
-- Intelligent AI Solutions
-- RAG Systems
-- AI Automation
-
----
-
-## 🔍 Exploring
-
-- Large Language Models
-- AI Agents
-- LangGraph
-- MCP
-
----
-
-## 💼 Open To
-
-- 📊 Data Analyst
-- 🤖 Data Scientist
-- 🧠 AI/ML Engineer
-- 🚀 Gen AI Engineer
-
----
-
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -361,7 +455,7 @@ I'm currently seeking opportunities as a:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/jiya426">
+<a href="https://www.linkedin.com/in/jiya-jain9876/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -373,24 +467,44 @@ I'm currently seeking opportunities as a:
 
 <br>
 
-- 📧 **Email:** **jiyajain4409@gmail.com**
-- 💻 **GitHub:** **https://github.com/jiya426**
-- 💼 **LinkedIn:** **https://www.linkedin.com/in/jiya-jain9876/**
+<div align="center">
+
+📧 **Email:** jiyajain4409@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/jiya-jain9876/
+
+💻 **GitHub:** https://github.com/jiya426
+
+</div>
+
+---
+
+# 💜 Quote
+
+<div align="center">
+
+> ### *"Transforming data into insights and building intelligent AI solutions that create real-world impact."*
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jiya426/jiya426/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💜 Quote
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6C63FF,50:3B82F6,100:9333EA"/>
 
-### *"Turning data into insights and ideas into intelligent AI solutions."*
+### ⭐ Thanks for visiting my profile!
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&weight=600&pause=1000&color=7C3AED&center=true&width=700&lines=Data+Analyst;Data+Scientist;AI%2FML+Engineer;Gen+AI+Engineer;Building+AI+Solutions"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6C63FF,50:3B82F6,100:7C3AED"/>
+If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
