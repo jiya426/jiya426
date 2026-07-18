@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:3B82F6,100:7C3AED&text=Fazal%20M%20Shaikh&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Data%20Analyst%20|%20Data%20Scientist%20|%20AI%2FML%20Engineer%20|%20Gen%20AI%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:3B82F6,100:7C3AED&text=Jiya%20M%20Jain&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Data%20Analyst%20|%20Data%20Scientist%20|%20AI%2FML%20Engineer%20|%20Gen%20AI%20Engineer&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Data+Analyst;Data+Scientist;AI%2FML+Engineer;Gen+AI+Engineer;Building+AI+Solutions"/>
 
